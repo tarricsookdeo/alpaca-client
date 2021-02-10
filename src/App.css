@@ -1,0 +1,44 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin: 0 15%;
+}
+
+.LandingPage {
+  display: flex;
+  align-items: center;
+  margin-top: 25vh;
+}
+
+.LandingPage img {
+  width: 50%;
+}
+
+.LandingPage p {
+  font-size: 18px;
+}
+
+.LandingPage button {
+  margin-right: 20px;
+  padding: 0 20px;
+  height: 33px;
+  font-size: 16px;
+  font-style: normal;
+  background-color: #5627d8;
+  text-align: center;
+  color: white;
+  border: none;
+}
+
+.LandingPage button:hover {
+  background-color: #6c48cf;
+}
+
+.LandingPage a {
+  color: #5627d8;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.LandingPage a:hover {
+  color: #6c48cf;
+}
